@@ -1,6 +1,6 @@
 # pingUpDown
 
-## A ping sweep is a basic network scanning technique used to determine which of a range of IP addresses map to live computers.(Techtarget)
+## A ping sweep is a basic network scanning technique used to determine which of a range of IP addresses map to live hosts. (Techtarget)
 
 ### This script execute the ping command with count equal one and grab the value of package received. If the value is zero, the host is down, now if the value is one, the host is up.
 
