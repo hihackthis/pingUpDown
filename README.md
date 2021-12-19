@@ -6,7 +6,7 @@
 
 ### Note: There is not error handling, this is script only verifies if the file exist (-f) or if it have read permission (-r).
 
-###How to run:
+### How to run:
 
 ```bash
 
